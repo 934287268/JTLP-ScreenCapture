@@ -22,3 +22,6 @@ jtlp-settings.json
 jtlp-settings.json.bak
 截图中转站/
 录屏中转站/
+
+# Binary dependencies (download separately)
+tools/ffmpeg/ffmpeg.exe
